@@ -1,0 +1,15 @@
+body {
+    /* background-color: lightblue; */
+    background-image: url(/static/images/health.jpg);
+  }
+  
+  h4 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  a:hover{
+    background-color: black;
+
+
+  }
